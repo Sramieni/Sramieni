@@ -25,9 +25,9 @@
 </br>
 
 <h3 align="left">▶ Connect with me:</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/ramineni-sesha-sai-116a08260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/ramineni-sesha-sai-116a08260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white"></a>
+</p>
 </br>
 
 <h3 align="left">▶ Languages and Tools:</h3>
@@ -39,13 +39,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
@@ -70,9 +63,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </kbd>
-   <kbd>
 </br>
-    </p>
+</p>
 <h3 align="left">▶ Stats:</h3>
 <p align="center"><img src="https://badges.pufler.dev/visits/ramineni-sesha-sai/ramineni-sesha-sai?style=for-the-badge"/>
 </p>
@@ -80,4 +72,7 @@
 </p>
 <p align="center"><img src="https://badges.pufler.dev/commits/monthly/ramineni-sesha-sai"/></p>
 
-[Public Health Disease Surveillance Architecture Development](https://github.com/Sramieni/Public-Health-Disease-Surveillance-Architecture-Development-Project)
+## 📚 Projects
+
+- [Public Health Disease Surveillance Architecture Development](https://github.com/Sramieni/Public-Health-Disease-Surveillance-Architecture-Development-Project)
+- [Assessing the impacts of climate change on vulnerable populations using a health informatics approach](https://github.com/Sramieni/ClimateChangeHealthInformatics)
