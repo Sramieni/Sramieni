@@ -41,6 +41,13 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   </kbd>
   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </kbd>
+  <kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
@@ -74,5 +81,17 @@
 
 ## 📚 Projects
 
-- [Public Health Disease Surveillance Architecture Development](https://github.com/Sramieni/Public-Health-Disease-Surveillance-Architecture-Development-Project)
-- [Assessing the impacts of climate change on vulnerable populations using a health informatics approach](https://github.com/Sramieni/ClimateChangeHealthInformatics)
+### [Public Health Disease Surveillance Architecture Development](https://github.com/Sramieni/Public-Health-Disease-Surveillance-Architecture-Development-Project)
+- **Technical Skills**:
+  - Data Analysis using Python and R
+  - System Administration on Linux servers
+  - Scripting with Bash for automation
+  - Interoperability standards like HL7 and FHIR
+  - Database management with MySQL 
+
+### [Assessing the impacts of climate change on vulnerable populations using a health informatics approach](https://github.com/Sramieni/ClimateChangeHealthInformatics)
+- **Technical Skills**:
+  - GIS and spatial data analysis
+  - Data integration across diverse sources (meteorological and health data)
+  - Public health knowledge and application in climate change contexts
+    
