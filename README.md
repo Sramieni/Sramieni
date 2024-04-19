@@ -11,7 +11,7 @@
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### I am a MS Health Informatics Student at Michigan Technological University
-- 🌱 I’m currently learning Advanced Data Analysis in Python.
+- 🌱 I’m currently learning Advanced Data Analysis.
 - 👯 I’m looking to collaborate with other health tech innovators :wink:
 - 🥅 2024 Goals: Contribute to health informatics projects and open source
 - 💬 Ask me about AI in healthcare, SQL, or Python.
