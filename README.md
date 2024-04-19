@@ -83,9 +83,7 @@
 
 ### [Public Health Disease Surveillance Architecture Development](https://github.com/Sramieni/Public-Health-Disease-Surveillance-Architecture-Development-Project)
 - **Technical Skills**:
-  - Data Analysis using Python and R
   - System Administration on Linux servers
-  - Scripting with Bash for automation
   - Interoperability standards like HL7 and FHIR
   - Database management with MySQL 
 
