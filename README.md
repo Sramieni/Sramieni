@@ -8,7 +8,6 @@
 
 I'm a graduate student in **Health Informatics** at Michigan Technological University, combining a background in pharmaceutical sciences with a growing expertise in data science, biomedical computing, and healthcare technologies. My academic and research journey is driven by a desire to use data and digital tools to enhance patient care and clinical workflows.
 
-Currently, I’m involved in **wound healing research**, exploring the mechanobiological behavior of fibroblasts in 3D matrices using traction force microscopy and advanced imaging tools. My focus is on translating complex biological signals into meaningful insights through computational analysis.
 
 ---
 
