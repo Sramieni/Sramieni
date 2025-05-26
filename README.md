@@ -4,46 +4,47 @@
 
 ## 👤 About Me
 
-I'm a graduate student in **Health Informatics** at Michigan Technological University, where I focus on combining data science, biomedical computing, and clinical insight to improve healthcare outcomes. My work spans across research, software development, and data analytics — and I’m particularly passionate about applying machine learning and mechanobiological models to real-world health challenges.
+<img align="right" height="250px" alt="coding gif" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-Currently, I'm part of a research initiative exploring wound healing and matrix mechanics using advanced imaging, traction force microscopy, and computational modeling.
+I'm a graduate student in **Health Informatics** at Michigan Technological University, combining a background in pharmaceutical sciences with a growing expertise in data science, biomedical computing, and healthcare technologies. My academic and research journey is driven by a desire to use data and digital tools to enhance patient care and clinical workflows.
+
+Currently, I’m involved in **wound healing research**, exploring the mechanobiological behavior of fibroblasts in 3D matrices using traction force microscopy and advanced imaging tools. My focus is on translating complex biological signals into meaningful insights through computational analysis.
 
 ---
 
 ## 🎯 What I Bring
 
-- ✅ Solid foundation in **Python, SQL, and R**, with experience in data wrangling, analytics, and automation.
-- ✅ Experience working with **health IT systems**, including OpenEMR, FHIR, HAPI servers, and Synthea for EMR simulations.
-- ✅ Exposure to **Big Data tools** (Hadoop, Spark), with hands-on knowledge in bioinformatics and clinical datasets.
-- ✅ Research background in **mechanobiology**, microscopy, and biophysical modeling using MATLAB and related toolkits.
+- ✅ Strong programming foundation in **Python, SQL, and R** for data analysis and healthcare applications.
+- ✅ Experience with **EMR systems and healthcare interoperability tools** like FHIR, HAPI, and OpenEMR.
+- ✅ Knowledge of **Big Data frameworks** like Hadoop and Spark for managing and analyzing large datasets.
+- ✅ Research experience in **cell mechanics and biomedical modeling**, using MATLAB and imaging platforms.
 
 ---
 
 ## 🧰 Technical Toolbox
 
 ### Programming & Data
-`Python` • `SQL` • `R` • `Pandas` • `NumPy` • `Matplotlib` • `Hadoop` • `Spark`
+`Python` • `SQL` • `R` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Hadoop` • `Spark`
 
 ### Health IT & Interoperability
-`FHIR / HAPI` • `OpenEMR` • `Synthea` • `Postman` • `SimVascular` • `HIPAA-compliant design`
+`FHIR / HAPI` • `OpenEMR` • `Synthea` • `Postman` • `SimVascular` • `HIPAA-compliant Systems`
 
-### Computational & Bioinformatics Tools
-`MATLAB` • `Traction Force Microscopy (TFM)` • `BEM / FTTC methods`
+### Computational & Research Tools
+`MATLAB` • `Traction Force Microscopy (TFM)` • `BEM / FTTC Methods` • `Linux` • `VMware`
 
-### Development Tools
-`Flask` • `Node.js` • `React` • `HTML/CSS` • `Bootstrap` • `Git` • `VS Code` • `Linux`
-
----
-
-## 📍 Currently Based In
-
-**Houghton, Michigan**  
-📧 Reach me at: [ramineniseshasai@gmail.com](mailto:ramineniseshasai@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ramineni-sesha-sai-116a08260/)
+### Development & Visualization
+`Flask` • `Node.js` • `React` • `HTML` • `CSS` • `Bootstrap` • `Git` • `VS Code`
 
 ---
 
-## 🤝 Let’s Connect
+## 📍 Let's Connect
 
-Whether you're working in healthcare, research, or health-tech innovation, I'm always open to collaboration, learning opportunities, and conversations that spark ideas.
+📫 Email: [ramineniseshasai@gmail.com](mailto:ramineniseshasai@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/ramineni-sesha-sai-116a08260/)  
+📍 Based in: Houghton, Michigan  
 
+---
+
+## 🤝 Open to Opportunities
+
+I’m actively seeking **internships and collaborative roles** where I can apply my skills in health informatics, data analysis, and healthcare innovation. If you're working on something meaningful in this space — let’s talk!
