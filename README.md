@@ -1,64 +1,49 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Sesha+Sai!+👋;Health+Informatics+Developer;Data+Analyst;+Research+Enthusiast)
-
-## 🧐 About Me
-
-<h3 align="center">Graduate student in Health Informatics, passionate about leveraging technology to improve healthcare outcomes.</h3>
-
-<br>
-
-<img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
-### 📌 Quick Facts
-- 🎓 Master’s in Health Informatics @ Michigan Technological University (GPA: 4.0)
-- 🧠 Currently researching mechanobiology in wound healing using microscopy & MATLAB
-- 🛠️ Skilled in Python, SQL, R, Big Data frameworks, and biomedical computing tools
-- 📍 Based in Houghton, MI | Open to internships in healthcare technology and data analytics
-- 💬 Ask me about AI in healthcare, clinical decision support, or healthcare interoperability
-- 📬 Reach out: [ramineniseshasai@gmail.com](mailto:ramineniseshasai@gmail.com)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hello,+I'm+Sesha+Sai!+👋;Health+Informatics+Developer;Data+Analyst+|+Problem+Solver;Driven+by+Tech+that+Improves+Lives)
 
 ---
 
-## 🛠 Languages & Tools
+## 👤 About Me
 
-<p align="center">
-  <kbd>
-    <kbd>Languages</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Data & AI</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Frameworks</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  </kbd>
-</p>
+I'm a graduate student in **Health Informatics** at Michigan Technological University, where I focus on combining data science, biomedical computing, and clinical insight to improve healthcare outcomes. My work spans across research, software development, and data analytics — and I’m particularly passionate about applying machine learning and mechanobiological models to real-world health challenges.
+
+Currently, I'm part of a research initiative exploring wound healing and matrix mechanics using advanced imaging, traction force microscopy, and computational modeling.
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 What I Bring
 
-<p>
-  <a href="https://www.linkedin.com/in/ramineni-sesha-sai-116a08260/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- ✅ Solid foundation in **Python, SQL, and R**, with experience in data wrangling, analytics, and automation.
+- ✅ Experience working with **health IT systems**, including OpenEMR, FHIR, HAPI servers, and Synthea for EMR simulations.
+- ✅ Exposure to **Big Data tools** (Hadoop, Spark), with hands-on knowledge in bioinformatics and clinical datasets.
+- ✅ Research background in **mechanobiology**, microscopy, and biophysical modeling using MATLAB and related toolkits.
+
+---
+
+## 🧰 Technical Toolbox
+
+### Programming & Data
+`Python` • `SQL` • `R` • `Pandas` • `NumPy` • `Matplotlib` • `Hadoop` • `Spark`
+
+### Health IT & Interoperability
+`FHIR / HAPI` • `OpenEMR` • `Synthea` • `Postman` • `SimVascular` • `HIPAA-compliant design`
+
+### Computational & Bioinformatics Tools
+`MATLAB` • `Traction Force Microscopy (TFM)` • `BEM / FTTC methods`
+
+### Development Tools
+`Flask` • `Node.js` • `React` • `HTML/CSS` • `Bootstrap` • `Git` • `VS Code` • `Linux`
+
+---
+
+## 📍 Currently Based In
+
+**Houghton, Michigan**  
+📧 Reach me at: [ramineniseshasai@gmail.com](mailto:ramineniseshasai@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ramineni-sesha-sai-116a08260/)
+
+---
+
+## 🤝 Let’s Connect
+
+Whether you're working in healthcare, research, or health-tech innovation, I'm always open to collaboration, learning opportunities, and conversations that spark ideas.
+
